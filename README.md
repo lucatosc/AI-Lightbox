@@ -31,30 +31,4 @@ curl http://localhost:5000/predictions -X POST \
 # AI Lightbox Desktop client Screeshot on Windows
 ![AI Lightbox Desktop client on Windows](/screenshot.png)
 
-Requires [Skia4Delphi](https://github.com/skia4delphi/skia4delphi) to compile.
 
-Other Delphi AI clients:
-
-[SDXL Inpainting](https://github.com/FMXExpress/SDXL-Inpainting)
-
-[Stable Diffusion Desktop Client](https://github.com/FMXExpress/Stable-Diffusion-Desktop-Client)
-
-[CodeDroidAI](https://github.com/FMXExpress/CodeDroidAI)
-
-[ControlNet Sketch To Image](https://github.com/FMXExpress/ControlNet-Sketch-To-Image)
-
-[AutoBlogAI](https://github.com/FMXExpress/AutoBlogAI)
-
-[AI Code Translator](https://github.com/FMXExpress/AI-Code-Translator)
-
-[AI Playground](https://github.com/FMXExpress/AI-Playground-DesktopClient)
-
-[Song Writer AI](https://github.com/FMXExpress/Song-Writer-AI)
-
-[Stable Diffusion Text To Image Prompts](https://github.com/FMXExpress/Stable-Diffusion-Text-To-Image-Prompts)
-
-[Generative AI Prompts](https://github.com/FMXExpress/Generative-AI-Prompts)
-
-[Dreambooth Desktop Client](https://github.com/FMXExpress/DreamBooth-Desktop-Client)
-
-[Text To Vector Desktop Client](https://github.com/FMXExpress/Text-To-Vector-Desktop-Client)
